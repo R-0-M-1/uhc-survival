@@ -1,6 +1,24 @@
 <h1>Annexe</h1>
 
-<h3>Liste des objectifs</h3>
+<h3>Objectifs</h3>
+
+Les objectifs sont divisés en différentes catégories rapportant un certain score en fonction de la catégorie et d'un multiplicateur de score fonction de la difficulté et de la réussite.
+
+<h5>Score par catégorie</h5>
+
+| Catégories | Construction | Redstone | Exploration | Aventure | Equipe |
+| ---------- | ------------ | -------- | ----------- | -------- | ------ |
+| Score      | 2            | 2        | 7           | 100      | 120    |
+
+<h5>Multiplicateur de Score</h5>
+
+| Difficulté\Réussite | Nul       | Bof  | Ok   | Cool | Génial |
+| ------------------- | --------- | ---- | ---- | ---- | ------ |
+| Très simple         | à refaire | 0.25 | 0.5  | 0.75 | 1      |
+| Simple              | à refaire | 0.5  | 0.75 | 1    | 1.5    |
+| Modéré              | à refaire | 0.75 | 0    | 1.5  | 2      |
+| T                   | à refaire | 1    | 1.5  | 1    | 2.5    |
+| Très difficile      | à refaire | 1.5  | 2    | 2.5  | 3      |
 
 <h5>Construction</h5>
 
@@ -32,7 +50,7 @@
 * Construire la ferme à poulet automatisé
 * Construire la ferme à melon et pastèque
 * Aménager un spawner en usine à xp.
-* Constuire la tour à mob
+* Construire la tour à mob
 * Construire l'usine à fer
 * Construire l'usine à blaze
 * Construire le système de minecart à travers la ville
@@ -69,20 +87,13 @@
 
 
 
-
-
-
-
-
-
 <h3>Bonus</h3>
 
-* Le marteau de Thor (Trident Recul X + Effet éclair)
-* Le lance roquette (Arc qui lance des boules de feu)
-* Bouclier Captain America (Plaston peté)
-* 
-
-
+* Le marteau de Thor (Trident Recul X + Solidité X+ Effet éclair)
+* Le Ghast-Bow (Arc qui lance des boules de feu)
+* La Pelteuse  (Pelle en diamant Efficacité X + Solidité X )
+* L'Annihilator (Pioche en diamant Efficacité X + Solidité X)
+* Excalibur (Epée en diamant Tranchant X + Solidité X)
 
 
 
