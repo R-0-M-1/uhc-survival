@@ -8,7 +8,7 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 
 | Catégories | Construction | Redstone | Exploration | Aventure | Equipe |
 | ---------- | ------------ | -------- | ----------- | -------- | ------ |
-| Score      | 2            | 2        | 7           | 100      | 120    |
+| Score      | 200          | 150      | 80          | 100      | 120    |
 
 <h5>Multiplicateur de Score</h5>
 
