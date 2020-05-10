@@ -47,7 +47,7 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 
 <h5>Redstone</h5>
 
-* Construire la ferme à poulet automatisé
+* Construire la ferme à poulet automatisée
 * Construire la ferme à melon et pastèque
 * Aménager un spawner en usine à xp.
 * Construire la tour à mob
